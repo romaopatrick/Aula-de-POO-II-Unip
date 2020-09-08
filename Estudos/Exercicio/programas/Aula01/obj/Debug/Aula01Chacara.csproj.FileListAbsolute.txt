@@ -1,0 +1,10 @@
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\bin\Debug\Aula01Chacara.exe.config
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\bin\Debug\Aula01Chacara.exe
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\bin\Debug\Aula01Chacara.pdb
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\obj\Debug\Aula01Chacara.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\obj\Debug\Aula01Chacara.Inicial.resources
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\obj\Debug\Aula01Chacara.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\obj\Debug\Aula01Chacara.csproj.GenerateResource.cache
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\obj\Debug\Aula01Chacara.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\obj\Debug\Aula01Chacara.exe
+C:\Users\Samsung\Desktop\Aula noite\Chacara\programas\Aula01Chacara\obj\Debug\Aula01Chacara.pdb
