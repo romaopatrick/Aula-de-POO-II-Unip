@@ -1,4 +1,11 @@
 
 *.docx
-Estudos/Exercicio/programas/Aula01/bin/Debug/Aula01Chacara.exe
 *.exe
+*.csproj
+*.dll
+*.json
+*.cache
+*.pdb
+*.suo
+Exercicios/Aula 02 Teoria/obj/Debug/netcoreapp3.1/Aula 02 Teoria.csproj.FileListAbsolute.txt
+Exercicios/LiçãoDeCasaAula01/.vs/LiçãoDeCasaAula01/v16/.suo
