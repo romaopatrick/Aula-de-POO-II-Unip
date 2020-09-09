@@ -1,0 +1,10 @@
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\bin\Debug\Aula02TeoriaWforms.exe.config
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\bin\Debug\Aula02TeoriaWforms.exe
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\bin\Debug\Aula02TeoriaWforms.pdb
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\obj\Debug\Aula02TeoriaWforms.csprojAssemblyReference.cache
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\obj\Debug\Aula02TeoriaWforms.Form1.resources
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\obj\Debug\Aula02TeoriaWforms.Properties.Resources.resources
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\obj\Debug\Aula02TeoriaWforms.csproj.GenerateResource.cache
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\obj\Debug\Aula02TeoriaWforms.csproj.CoreCompileInputs.cache
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\obj\Debug\Aula02TeoriaWforms.exe
+D:\Repositorios\Aula-de-POO-II-Unip\Exercicios\Aula02TeoriaWforms\obj\Debug\Aula02TeoriaWforms.pdb
